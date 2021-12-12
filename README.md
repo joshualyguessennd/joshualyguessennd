@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshualyguessennd
 - 👀 I’m interested in Blockchain , Ethereum and innovative solution
-- 🌱 I’m currently learning Solidity, Rust , blockchain 
+- 🌱 I’m currently learning Solidity, Cairo , blockchain 
 - 💞️ I’m looking to collaborate on blockchain project 
 - 📫 How to reach me github
 
